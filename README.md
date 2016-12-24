@@ -1,6 +1,6 @@
 #########################
 # Filename        : README.md
-# Original Author : Yatendra Kumar Sharma
+# Original Author : Sanjay singhania
 # Company         : Self
 # Description     : Topic wise important links
 #########################

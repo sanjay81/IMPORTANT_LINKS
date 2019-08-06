@@ -1,6 +1,6 @@
 #########################
 # Filename        : README.md
-# Original Author : Sanjay singhania
+# Original Author : Sanjay 
 # Company         : Self
 # Description     : Topic wise important links
 #########################
